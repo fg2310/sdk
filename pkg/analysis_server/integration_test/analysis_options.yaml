@@ -1,2 +1,0 @@
-# Use the same analysis options as the main test folder.
-include: ../test/analysis_options.yaml
