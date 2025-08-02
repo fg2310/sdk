@@ -1,3 +1,0 @@
-deleted() {
-  return 'hello';
-}

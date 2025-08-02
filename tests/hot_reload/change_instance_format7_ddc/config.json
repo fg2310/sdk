@@ -1,8 +1,0 @@
-{
-  "exclude": [
-    "vm"
-  ],
-  "expectedErrors": {
-    "1": "Limitation: changing type parameters does not work with hot reload."
-  }
-}

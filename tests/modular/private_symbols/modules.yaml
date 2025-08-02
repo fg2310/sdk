@@ -1,4 +1,0 @@
-dependencies:
-  main: [a, b, expect]
-  a: s
-  b: s
