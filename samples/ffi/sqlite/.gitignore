@@ -1,6 +1,0 @@
-.dart_tool
-.gdb_history
-.vscode
-pubspec.lock
-test.db
-test.db-journal
